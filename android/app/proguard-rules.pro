@@ -1,0 +1,3 @@
+-keep class com.shivkhatabook.app.** { *; }
+-keep class com.google.androidbrowserhelper.** { *; }
+-dontwarn com.google.androidbrowserhelper.**

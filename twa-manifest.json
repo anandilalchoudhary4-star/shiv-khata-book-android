@@ -1,0 +1,52 @@
+{
+  "packageId": "com.shivkhatabook.app",
+  "host": "ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app",
+  "name": "Shiv Khata Book - शिव खाता बुक",
+  "launcherName": "शिव खाता",
+  "display": "standalone",
+  "themeColor": "#1E3A5F",
+  "themeColorDark": "#0B111E",
+  "navigationColor": "#1E3A5F",
+  "navigationColorDark": "#0B111E",
+  "navigationDividerColor": "#E2E8F0",
+  "navigationDividerColorDark": "#1E293B",
+  "backgroundColor": "#F8F7F4",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app/pwa-512x512.png",
+  "maskableIconUrl": "https://ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app/pwa-maskable-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "shivkhata"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [
+    {
+      "name": "उधार लिखें",
+      "shortName": "उधार",
+      "url": "/?action=udhaar",
+      "chosenIconUrl": "https://ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app/pwa-192x192.png"
+    },
+    {
+      "name": "जमा लिखें",
+      "shortName": "जमा",
+      "url": "/?action=jama",
+      "chosenIconUrl": "https://ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app/pwa-192x192.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app/",
+  "minSdkVersion": 24,
+  "orientation": "portrait"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">शिव खाता</string>
+    <string name="full_app_name">शिव खाता बुक</string>
+    <string name="launch_url" translatable="false">https://ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app/</string>
+    <string name="host_name" translatable="false">ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app</string>
+    <string name="provider_authority" translatable="false">com.shivkhatabook.app.fileprovider</string>
+    <string name="asset_statements" translatable="false">[{\"relation\": [\"delegate_permission/common.handle_all_urls\"], \"target\": {\"namespace\": \"web\", \"site\": \"https://ais-pre-a67e6uancb7xgkoiyp6v43-926888069936.asia-southeast1.run.app\"}}]</string>
+</resources>
